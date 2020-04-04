@@ -1,0 +1,33 @@
+{
+    "users": [
+        {
+            "id": "1000",
+            "firstName": "Random 1",
+            "age": 23,
+            "companyId": "1"
+        },
+        {
+            "id": "1001",
+            "firstName": "Random 2",
+            "age": 33,
+            "companyId": "2"
+        },
+        {
+            "id": "1002",
+            "firstName": "Random 3",
+            "age": 63,
+            "companyId": "3"
+        },
+        {
+            "id": "1003",
+            "firstName": "Random 4",
+            "age": 13,
+            "companyId": "2"
+        }
+    ],
+    "companies": [
+        { "id": "1", "name": "Apple", "description": "iphone" },
+        { "id": "2", "name": "Google", "description": "pixel" },
+        { "id": "3", "name": "Samsung", "description": "Galaxy" }
+    ]
+}
